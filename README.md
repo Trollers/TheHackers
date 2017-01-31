@@ -1,5 +1,3 @@
-# bullet10
-Fun game
 <!DOCTYPE html>
 <html>
 <head>
@@ -16,15 +14,15 @@ var pass1 = prompt('Please Enter Your Password',' ');
 while (testV < 5) {
 if (!pass1) 
 history.go(-1);
-if (pass1.toLowerCase() == "trollingballs")
+if (pass1.toLowerCase() == "trollingyou")
     ") {
 alert('You Got it Right!');
-window.location ="https://powerwiz.github.io/theone-/";
+window.location ="https://flippinggamesbro.github.io/manchiled";
 break;
 } 
 if (pass1.toLowerCase() == "sunnysunny") {
 alert('hello sunny');
-window.location = "https://powerwiz.github.io/ninjahinja/wasm-demo/index.html";
+window.location = "https://flippinggamesbro.github.io/ninjahinja/wasm-demo/index.html";
 break;
 } 
 testV+=1;
@@ -43,4 +41,3 @@ return " ";
 </CENTER>
 
 </html>
-
