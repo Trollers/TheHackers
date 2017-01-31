@@ -14,15 +14,15 @@ var pass1 = prompt('Please Enter Your Password',' ');
 while (testV < 5) {
 if (!pass1) 
 history.go(-1);
-if (pass1.toLowerCase() == "trollingyou")
+if (pass1.toLowerCase() == "anthonyissoannoying!")
     ") {
 alert('You Got it Right!');
-window.location ="https://flippinggamesbro.github.io/manchiled";
+window.location ="https://powerwiz.github.io/anthonysuckshisown-/";
 break;
 } 
 if (pass1.toLowerCase() == "sunnysunny") {
 alert('hello sunny');
-window.location = "https://flippinggamesbro.github.io/ninjahinja/wasm-demo/index.html";
+window.location = "https://powerwiz.github.io/ninjahinja/wasm-demo/index.html";
 break;
 } 
 testV+=1;
