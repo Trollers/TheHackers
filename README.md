@@ -16,10 +16,10 @@ var pass1 = prompt('Please Enter Your Password',' ');
 while (testV < 5) {
 if (!pass1) 
 history.go(-1);
-if (pass1.toLowerCase() == "anthonyissoannoying!")
+if (pass1.toLowerCase() == "trollingballs")
     ") {
 alert('You Got it Right!');
-window.location ="https://powerwiz.github.io/anthonysuckshisown-/";
+window.location ="https://powerwiz.github.io/theone-/";
 break;
 } 
 if (pass1.toLowerCase() == "sunnysunny") {
